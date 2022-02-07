@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="commodore64.jps" alt="Commodore 64" />
 <!--
 **vincenzoargese/vincenzoargese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
