@@ -13,4 +13,4 @@ This website is a place where I share what I love: projects, experiments, and id
 
 Welcome to my digital world!
 
-[Twitter/X](https://x.com/VincenzoArgese) | [DevBlog](https://github.com/vincenzoargese](https://vincenzoargese.github.io/)
+[Twitter/X](https://x.com/VincenzoArgese) | [DevBlog](https://vincenzoargese.github.io/)
