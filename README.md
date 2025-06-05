@@ -12,4 +12,14 @@ This website is a place where I share what I love: projects, experiments, and id
 
 Welcome to my digital world!
 
+Here you’ll find blog and technical articles on:
+
+- 💻 Software development and CyberSecurity
+- 🐧 Debian GNU/Linux
+- 🔐 Insights on Digital Forensics (DFIR)
+- 🎮 Game Development projects  
+- . . .
+
+Welcome to my digital world!
+
 [Twitter/X](https://x.com/VincenzoArgese) | [DevBlog](https://vincenzoargese.github.io/)
